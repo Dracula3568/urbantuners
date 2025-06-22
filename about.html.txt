@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>UrbanTuners | About</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>UrbanTuners</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="guide.html">Guide</a>
+      <a href="forum.html">Forum</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>About UrbanTuners</h2>
+    <p>UrbanTuners is a passion project for car lovers, tuners, and gearheads. Whether you're new to car tuning or an experienced modifier, we aim to be your go-to resource for everything from ECU remaps to body kits.</p>
+    <p>Founded by enthusiasts, our mission is to make tuning accessible to everyone.</p>
+  </main>
+</body>
+</html>
