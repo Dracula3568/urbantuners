@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>UrbanTuners</title>
+  <title>UrbanTuners | Home</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -19,7 +19,7 @@
 
   <main>
     <h2>Welcome to UrbanTuners</h2>
-    <p>Explore tuning techniques, guides, and share your builds with our community.</p>
+    <p>Explore engine tuning techniques, aesthetic mods, and join our community!</p>
     <img src="assets/banner.jpg" alt="Cool tuned car" width="100%">
   </main>
 </body>
