@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>UrbanTuners | Guide</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>UrbanTuners</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="guide.html">Guide</a>
+      <a href="forum.html">Forum</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Car Tuning Guides</h2>
+    <ul>
+      <li><strong>ECU Remapping:</strong> Improve performance through software tuning.</li>
+      <li><strong>Cold Air Intakes:</strong> Boost horsepower with better airflow.</li>
+      <li><strong>Suspension Mods:</strong> Upgrade handling with coilovers and sway bars.</li>
+      <li><strong>Aesthetic Mods:</strong> Add style with body kits, spoilers, and lights.</li>
+    </ul>
+  </main>
+</body>
+</html>
