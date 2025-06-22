@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>UrbanTuners | Forum</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>UrbanTuners</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="guide.html">Guide</a>
+      <a href="forum.html">Forum</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Community Forum</h2>
+    <p>Share your tuning ideas, questions, and experiences below. Join our community!</p>
+    <!-- Embed Disqus or link to Discord/Reddit -->
+    <p><a href="https://discord.com" target="_blank">Join our Discord Community</a></p>
+  </main>
+</body>
+</html>
